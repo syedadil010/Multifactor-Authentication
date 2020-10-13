@@ -1,4 +1,4 @@
-# Multifactor-Authentication using Google Authenticator or E-mail or SMS
+# Multifactor-Authentication using Google Authenticator, E-mail or SMS
 
 An extra layer of security used to make sure that people trying to gain access to an online account are who they say they are.  
   
